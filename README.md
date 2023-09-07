@@ -14,3 +14,4 @@
 |15|[3Sum](https://leetcode.com/problems/3sum/)|[Python](./solutions/15.ipynb)|Medium|`Array`, `Two Pointers`|
 |17|[Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number/)|[Python](./solutions/17.ipynb)|Medium|`String`, `Backtracking`|
 |19|[Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/)|[Python](./solutions/19.ipynb)|Medium|`Linked List`, `Two Pointers`|
+|20|[Valid Parentheses](https://leetcode.com/problems/valid-parentheses/)|[Python](./solutions/20.ipynb)|Easy|`String`, `Stack`|
