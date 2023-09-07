@@ -12,3 +12,5 @@
 |9|[Palindrome Number](https://leetcode.com/problems/palindrome-number/)|[Python](./solutions/9.ipynb)|Easy|`Math`|
 |14|[Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/)|[Python](./solutions/14.ipynb)|Easy|`String`|
 |15|[3Sum](https://leetcode.com/problems/3sum/)|[Python](./solutions/15.ipynb)|Medium|`Array`, `Two Pointers`|
+|17|[Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number/)|[Python](./solutions/17.ipynb)|Medium|`String`, `Backtracking`|
+|19|[Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/)|[Python](./solutions/19.ipynb)|Medium|`Linked List`, `Two Pointers`|
