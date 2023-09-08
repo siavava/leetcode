@@ -1,7 +1,7 @@
 # LeetCode Challenges
 
 | # | Title | Solution | Difficulty | Categories |
-|---| ----- | -------- | ---------- | ---------- |
+|:---| :----- | :-------- | :---------- | :---------- |
 |1|[Two Sum](https://leetcode.com/problems/two-sum/)|[Python](./solutions/1.ipynb)|Easy|`Array`, `Hash Table`|
 |2|[Add Two Numbers](https://leetcode.com/problems/add-two-numbers/)|[Python](./solutions/2.ipynb)|Medium|`Linked List`, `Math`|
 |3|[Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/)|[Python](./solutions/3.ipynb)|Medium|`Hash Table`, `Two Pointers`, `String`, `Sliding Window`|
