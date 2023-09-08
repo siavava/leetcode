@@ -18,3 +18,4 @@
 |22|[Generate Parentheses](https://leetcode.com/problems/generate-parentheses/)|[Python](./solutions/22.ipynb)|Medium|`String`, `Backtracking`, `Dynamic Programming`|
 |23|[Merge k Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/)|[Python](./solutions/23.ipynb)|Hard|`Linked List`, `Divide and Conquer`, `Heap`|
 |28|[Implement strStr()](https://leetcode.com/problems/implement-strstr/)|[Python](./solutions/28.ipynb)|Easy|`Two Pointers`, `String`|
+|35|[Search Insert Position](https://leetcode.com/problems/search-insert-position/)|[Python](./solutions/35.ipynb)|Easy|`Array`, `Binary Search`|
